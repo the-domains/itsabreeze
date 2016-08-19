@@ -1,0 +1,14 @@
+layout_spectrum: 0.8567197828087956
+typography_spectrum: 0.45040664565749466
+color:
+  brandStrength: 0.8336885417811573
+  lightness: 0.35987309622578323
+  saturation: 0.5643169018439949
+  rhythmicContrast: 0.7128120143897831
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: itsabreeze
